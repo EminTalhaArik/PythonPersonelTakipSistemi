@@ -1,5 +1,5 @@
 # PythonPersonelTakipSistemi
-Bu proje @biralaylicoder instagram hesabı için oluşturulmuştur.
+
 
 Proje Anaconda Araçları/ Spyder kullanarak yazılmıştır.
 Projede Sqlite veritabanı kullanılmıştır.
